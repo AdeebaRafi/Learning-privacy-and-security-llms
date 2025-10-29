@@ -47,7 +47,7 @@ RAG = “Looks up new info each time before answering.”
 
 Now, here are 4 simple real-life examples where this can happen:
 
-# 1. Memorized Private Data
+# 1. Memorized Private Data:
 
 Example:
 An LLM was trained on old web data that included leaked emails.
