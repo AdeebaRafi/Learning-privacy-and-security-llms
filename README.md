@@ -26,7 +26,7 @@ Finds relevant information
 
 Combines that with the LLM’s reasoning to answer your question.
 
-# Example:
+# Example
 You ask: “What were the earnings of Tesla in 2023?”
 A plain LLM might guess (and possibly hallucinate).
 A RAG model will:
