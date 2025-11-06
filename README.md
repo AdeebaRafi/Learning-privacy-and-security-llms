@@ -146,7 +146,7 @@ Direct Injection - Talking directly to the AI
 
 Indirect Injection - Hiding malicious instructions in documents the AI reads
 
-# Step 3: LLM02 - Insecure Output Handling
+# Step 3: LLM02 - Insecure Output Handling:
 When an AI's response contains harmful content that gets automatically executed
 
 The Attack:
