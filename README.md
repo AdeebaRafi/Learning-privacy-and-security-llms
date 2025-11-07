@@ -277,7 +277,7 @@ System: "The average is around $60K, but I added some random noise to protect pr
 
 You get useful information without violating privacy
 
-How it Works for AI:
+How it Works for AI?
 
 ----> Add tiny random numbers to training data
 
