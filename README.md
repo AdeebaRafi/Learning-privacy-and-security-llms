@@ -273,11 +273,11 @@ Limitation: Sometimes people can still be re-identified if you have other inform
 Adding mathematical noise to data so you can learn patterns without seeing individual details.
 With Differential Privacy:
 
-System: "The average is around $60K, but I added some random noise to protect privacy"
+System: "The average is around $60K, but I added some random noise to protect privacy."
 
 You get useful information without violating privacy
 
-How it Works for AI?
+How does it work for AI?
 
 ----> Add tiny random numbers to training data
 
@@ -318,7 +318,7 @@ Federated Learning:
 ----> Patterns from thousands of devices are combined
 
 Real Example:
-Your phone's keyboard learns from your typing, but Apple/Google never see what you're typing!
+Your phone's keyboard learns from your typing, but Apple/Google never sees what you're typing!
 
 Step 6: Synthetic Data
 Artificially generated data that mimics real data patterns but contains no real information.
@@ -333,7 +333,7 @@ How it Works:
 
 Example:
 Real Data: Actual patient records with names, conditions, treatments
-Synthetic Data: Fictional patients with similar age distributions, condition frequencies, treatment outcomes
+Synthetic Data: Fictional patients with similar age distributions, condition frequencies, and treatment outcomes
 
 Advantage: Zero risk of privacy breaches since no real people are involved!
 
